@@ -2,7 +2,7 @@
 
 A simple, clean, and responsive calculator built using **HTML**, **CSS**, and **JavaScript**.
 
-
+![Calculator Screenshot](calculator.png)
 
 ---
 
@@ -31,4 +31,13 @@ Live here 👉 [Click to View Calculator](https://yourusername.github.io/calcula
 ---
 
 ## 📂 Folder Structure
+
+```bash
+calculator/
+├── index.html       # Main HTML file
+├── style.css        # Styling with CSS
+├── script.js        # JavaScript logic
+├── calculator.png   # Favicon or screenshot
+└── README.md        # Project documentation
+
 
