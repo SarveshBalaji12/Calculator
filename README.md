@@ -16,7 +16,7 @@ A simple, clean, and responsive calculator built using **HTML**, **CSS**, and **
 
 ## 📸 Demo
 
-Live here 👉 [Click to View Calculator](https://yourusername.github.io/calculator/)
+Live here 👉 [Click to View Calculator](https://singular-torte-f929b1.netlify.app/))
 
 ---
 
